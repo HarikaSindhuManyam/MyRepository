@@ -1,5 +1,6 @@
-Exploring git 
+Exploring the Git 
+Learing new techs
 
-Will be committing my codes here in future 
+Will be committing all my codes here in future 
 
-Like Core java ,Spring , Spring boot, Hibernate  etc 
+Like Core java , J2EE, Spring , Spring boot, Hibernate,  Junit, TestNG etc 
