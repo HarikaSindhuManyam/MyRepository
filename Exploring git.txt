@@ -1,5 +1,5 @@
 Exploring git 
 
-Will be committing my codes here in future 
+Will be committing all my codes here in future 
 
 Like Core java , J2EE, Spring , Spring boot, Hibernate,  Junit etc 
